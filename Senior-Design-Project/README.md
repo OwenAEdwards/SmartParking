@@ -25,3 +25,42 @@ Email Address: edwardoa@mail.uc.edu
 ## Project Sought
 - Web Development
 - Mobile Development
+
+---
+
+# Andrew T. Pipo
+Senior Computer Science student at the University of Cincinnati, College of Engineering and Applied Science
+## Contact Information
+Phone: (937) 631-5036
+
+Email: pipoat@mail.uc.edu
+
+## Co-op Work Experience
+- Embedded Software Enginner Co-op, ATech Training, Walton, Kentucky (3 semesters as co-op, 2 semesters as part-time)
+    - Developed Android applications for a manufacturing environment to achieve efficiency
+    - Developed Diagnostic Software and Graphical User Interfaces using C# and .NET framework for Serial Communications
+    - Developed automation scripts in Python for completing day-to-day tasks
+    - Performed Quality Testing and Code Reviews for various products and internal software
+
+## Other Work Experience
+- Associate Peer-Teaching Assistant, ENED1100 (4 semesters)
+    - Collaborated with professor to achieve an active classroom for a general engineering course for first year students
+    - Facilitated Peer Mentoring sessions for first year-students providing advice and resources for their specific needs
+    - Developed curriculum to experiment and implement department-wide in all courses
+
+
+## Skills/Expertise Areas
+- Web Development: HTML, CSS, JavaScript
+- Automation: Python
+- Programming: C, C#, C++, Java, Assembly, LabVIEW, MATLAB
+- Android Application Development: Kotlin
+- Database Development: SQL
+- Frameworks: .NET, Bootstrap
+
+
+## Areas of Interest
+- Web Development
+- Application Development
+- Automation
+- Embedded Systems
+- User Interfacing
