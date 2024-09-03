@@ -1,10 +1,8 @@
-# Project: Smart Parking System
-## Team
-**The Code Collective**
+# Smart Parking System
 ## Team Members
 - Owen Edwards (CS) - edwardoa@mail.uc.edu
 - Andrew Pipo (CS) - pipoat@mail.uc.edu
-## Project Topic Area
+## Project Topic Areas
 - IoT
 - Mobile Application Development
 - Data Analytics
