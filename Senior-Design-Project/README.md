@@ -25,6 +25,8 @@ Email Address: edwardoa@mail.uc.edu
 ## Project Sought
 - Web Development
 - Mobile Development
+- Cloud Computing
+- Databases
 
 ---
 
