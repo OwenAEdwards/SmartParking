@@ -14,7 +14,7 @@
     - [Andrew Pipo](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Essays/Pipo_Individual_Capstone_Assessment.docx)
     - [Owen Edwards](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Essays/Edwards_Individual_Capstone_Assessment.docx)
 13. [Professional Biographies](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/README.md#professional-biography---owen-edwards)
-14. Budget: TBA
+14. [Budget](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Budget.md)
 15. Appendix: TBA
 
 
