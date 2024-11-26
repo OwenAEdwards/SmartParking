@@ -1,23 +1,18 @@
-### August 2024
-- Tuesday, August 27: 3:30 PM to 5:00 PM  
-- Thursday, August 29: 3:30 PM to 5:00 PM  
-
 ### September 2024
-- Tuesday, September 3: 3:30 PM to 5:00 PM  
-- Thursday, September 5: 3:30 PM to 5:00 PM  
-- Tuesday, September 10: 3:30 PM to 5:00 PM  
-- Thursday, September 12: 3:30 PM to 5:00 PM  
-- Tuesday, September 17: 3:30 PM to 5:00 PM  
-- Thursday, September 19: 3:30 PM to 5:00 PM  
-- Tuesday, September 24: 3:30 PM to 5:00 PM  
-- Thursday, September 26: 3:30 PM to 5:00 PM  
+- Tuesday, September 10: 3:30 PM to 5:00 PM
+  - Worked on completing Assignment 3: Team Contract and Capstone Assessment  
+- Tuesday, September 17: 3:30 PM to 5:00 PM
+  - Worked on completing Assignment 4: Design Diagrams
+- Tuesday, September 24: 3:30 PM to 5:00 PM
+  - Worked on completing Assignment 5: Task Lists
 
 ### October 2024
-- Tuesday, October 1: 3:30 PM to 5:00 PM  
-- Thursday, October 3: 3:30 PM to 5:00 PM  
-- Tuesday, October 8: 3:30 PM to 5:00 PM  
-- Thursday, October 10: 3:30 PM to 5:00 PM  
-- Tuesday, October 15: 3:30 PM to 5:00 PM  
+- Tuesday, October 1: 3:30 PM to 5:00 PM
+  - Worked on completing Assignment 6: Milestones, Timeline, and Effort Matrix  
+- Tuesday, October 8: 3:30 PM to 5:00 PM
+  - Worked on completing Assignment 7: Project Constraints Essay  
+- Tuesday, October 15: 3:30 PM to 5:00 PM
+  - Worked on completing Assignment 8: Fall Design Presentations
 - Thursday, October 17: 3:30 PM to 5:00 PM  
 - Tuesday, October 22: 3:30 PM to 5:00 PM  
 - Thursday, October 24: 3:30 PM to 5:00 PM  
