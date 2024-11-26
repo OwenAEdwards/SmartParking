@@ -20,4 +20,3 @@ These repos are libraries that we could possibly utilize in developing our mobil
 - [https://github.com/twbs/bootstrap](https://github.com/twbs/bootstrap)
 - [https://github.com/JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 - [https://github.com/vercel/next.js](https://github.com/vercel/next.js)
-- 
