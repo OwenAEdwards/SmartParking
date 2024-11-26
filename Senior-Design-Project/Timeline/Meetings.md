@@ -26,7 +26,8 @@
 - Tuesday, October 22: 3:30 PM to 5:00 PM
   - Recorded and uploading presentation (Assignment 9)
   - Provided peer feedback for collegues on their projects
-- No Meetings: Continued working on Peer Review Assessments
+- No Meetings
+  - Continued working on Peer Review Assessments
 
 ### November 2024
 - Thursday, November 7: 3:30 PM to 5:00 PM
