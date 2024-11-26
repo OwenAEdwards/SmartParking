@@ -6,6 +6,8 @@ These are articles/publishings that we can utilize in developing our Smart Parki
 - [https://www.mdpi.com/2076-3417/9/21/4569](https://www.mdpi.com/2076-3417/9/21/4569)
 - [https://iopscience.iop.org/article/10.1088/1742-6596/1339/1/012044](https://iopscience.iop.org/article/10.1088/1742-6596/1339/1/012044)
 - [https://sciencepublishinggroup.com/article/10.11648/j.ajset.20170204.13](https://sciencepublishinggroup.com/article/10.11648/j.ajset.20170204.13)
+- [https://www.nature.com/articles/s41598-022-10076-4](https://www.nature.com/articles/s41598-022-10076-4)
+- [https://www.ijert.org/research/Review-Paper-on-Smart-Parking-System-IJERTCONV7IS08017.pdf](https://www.ijert.org/research/Review-Paper-on-Smart-Parking-System-IJERTCONV7IS08017.pdf)
 
 ## Code Repositories
 These repos will be used as a reference when developing our version of the Smart Parking System. These repos contain code that does not exactly relate to our inteded end goal, but will help.
