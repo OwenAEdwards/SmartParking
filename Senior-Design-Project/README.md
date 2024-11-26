@@ -17,8 +17,8 @@
 14. [Budget](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Budget.md)
 15. Appendix:
     - [Research](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Research/Research.md)
-    - [Code Repositories](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Research/Research.md)
-    - [Meeting Notes](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Research/Research.md)
+    - [Code Repositories](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Research/Research.md#code-repositories)
+    - [Meeting Notes](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Timeline/Meetings.md)
 ---
 
 # Professional Biography - Owen Edwards
