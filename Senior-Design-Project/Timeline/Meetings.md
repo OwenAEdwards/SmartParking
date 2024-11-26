@@ -4,7 +4,7 @@
 - Tuesday, September 17: 3:30 PM to 5:00 PM
   - Worked on completing Assignment 4: Design Diagrams
 - Tuesday, September 24: 11:00 AM to 11:20 AM
-  - Met with our Project Advisor to discuss our project idea and establish expectations for working on the project.
+  - Met with our Project Advisor to discuss our project idea and establish expectations for working on the project
   - Shared with Project Advisor current progress on completed and upcoming deliverables
 - Tuesday, September 24: 3:30 PM to 5:00 PM
   - Worked on completing Assignment 5: Task Lists
@@ -26,7 +26,7 @@
 - Tuesday, October 22: 3:30 PM to 5:00 PM
   - Recorded and uploading presentation (Assignment 9)
   - Provided peer feedback for collegues on their projects
-- Thursday, October 24: 3:30 PM to 5:00 PM 
+- No Meetings: Continued working on Peer Review Assessments
 
 ### November 2024
 - Thursday, November 7: 3:30 PM to 5:00 PM
