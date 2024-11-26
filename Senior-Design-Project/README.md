@@ -18,9 +18,7 @@
 15. Appendix:
     - [Research](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Research/Research.md)
     - [Code Repositories](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Research/Research.md)
-    - [Meeting Notes](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Research/Research.md)
-
-
+    - [Meeting Notes]([https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Research/Research.md](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Timeline/Meetings.md)
 ---
 
 # Professional Biography - Owen Edwards
