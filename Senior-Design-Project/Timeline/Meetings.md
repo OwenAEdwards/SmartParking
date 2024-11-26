@@ -20,23 +20,23 @@
   - Worked on completing Assignment 7: Project Constraints Essay  
 - Tuesday, October 15: 3:30 PM to 5:00 PM
   - Worked on completing Assignment 8: Fall Design Presentations
-- Thursday, October 17: 3:30 PM to 5:00 PM
 - Tuesday, October 22: 11:00 AM to 11:20 AM
   - Met with our Project Advisor to discuss/update on our project constraints and presentation for feedback
   - Shared with Project Advisor current progress on completed and upcoming deliverables 
-- Tuesday, October 22: 3:30 PM to 5:00 PM  
-- Thursday, October 24: 3:30 PM to 5:00 PM  
-- Tuesday, October 29: 3:30 PM to 5:00 PM  
-- Thursday, October 31: 3:30 PM to 5:00 PM  
+- Tuesday, October 22: 3:30 PM to 5:00 PM
+  - Recorded and uploading presentation (Assignment 9)
+  - Provided peer feedback for collegues on their projects
+- Thursday, October 24: 3:30 PM to 5:00 PM 
 
 ### November 2024
-- Thursday, November 7: 3:30 PM to 5:00 PM  
-- Tuesday, November 12: 3:30 PM to 5:00 PM  
-- Thursday, November 14: 3:30 PM to 5:00 PM  
-- Tuesday, November 19: 3:30 PM to 5:00 PM  
-- Thursday, November 21: 3:30 PM to 5:00 PM  
+- Thursday, November 7: 3:30 PM to 5:00 PM
+  - Started to work on final Fall Report and revising all documentation based on feedback provided from Advisor  
+- Tuesday, November 12: 3:30 PM to 5:00 PM
+  - Started to investigate similar Smart Parking Systems and Articles
+- Thursday, November 21: 3:30 PM to 5:00 PM
+  - Developed anticipated budget for the overall project
 - Tuesday, November 26: 3:30 PM to 5:00 PM
-  - Finalizing Fall Report/Repository  
+  - Finalizing Fall Report/Repository and Research 
 
 ### Planned Meetings for December 2024
 - Tuesday, December 3: 3:30 PM to 5:00 PM  
