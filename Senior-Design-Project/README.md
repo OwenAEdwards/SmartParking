@@ -20,7 +20,11 @@
     - [Code Repositories](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Research/Research.md#code-repositories)
     - [Meeting Notes](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Timeline/Meetings.md)
 ---
+# Documentation/User Guide
 
+[Smart Parking System - Documentation](https://pipoat.github.io/cs5002.html)
+
+---
 # Professional Biography - Owen Edwards
 
 ## Contact Information
