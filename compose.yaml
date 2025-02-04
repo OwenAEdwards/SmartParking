@@ -1,0 +1,6 @@
+﻿services:
+  smartparking:
+    image: smartparking
+    build:
+      context: .
+      dockerfile: Dockerfile
