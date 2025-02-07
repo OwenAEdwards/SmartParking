@@ -1,9 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:smart_parking/core/theme.dart';
 import 'package:smart_parking/routes/app_routes.dart';
+import 'package:smart_parking/providers/auth_provider.dart';
+import 'package:provider/provider.dart';
 
 void main() {
-  runApp(const SmartParkingApp());
+  runApp(
+    ChangeNotifierProvider(
+      create: (_) => AuthProvider(),
+      child: const SmartParkingApp(),
+    ),
+  );
 }
 
 class SmartParkingApp extends StatelessWidget {

@@ -20,9 +20,15 @@ class HomeScreen extends StatelessWidget {
             const SizedBox(height: 20),
             ElevatedButton(
               onPressed: () {
-                Navigator.pushNamed(context, '/parking');
+                Navigator.pushNamed(context, '/login');
               },
-              child: const Text('Find Parking'),
+              child: const Text('Login'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.pushNamed(context, '/settings');
+              },
+              child: const Text('Settings'),
             ),
           ],
         ),
