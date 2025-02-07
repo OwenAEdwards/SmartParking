@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:smart_parking/views/home_screen.dart';
 import 'package:smart_parking/core/theme.dart';
 import 'package:smart_parking/routes/app_routes.dart';
 

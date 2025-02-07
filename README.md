@@ -1,5 +1,9 @@
 # smart_parking
 
+## Instructions
+
+Run an Android device on the Android Studio emulator (or a physical device). Run the app with ``flutter run``, passing the ``-v`` option for verbose console logging on the run.
+
 ## Project Structure
 
 All these directories are in the ``lib/`` directory, where ``main.dart`` is the entry point of the app:
