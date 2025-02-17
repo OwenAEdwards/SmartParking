@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\apmar\\OneDrive\\Desktop\\SmartParking\\SmartParking.csproj": {}
+    "C:\\Users\\owen1\\Downloads\\Senior Design GitHub Repo\\backend\\SmartParking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\apmar\\OneDrive\\Desktop\\SmartParking\\SmartParking.csproj": {
+    "C:\\Users\\owen1\\Downloads\\Senior Design GitHub Repo\\backend\\SmartParking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\apmar\\OneDrive\\Desktop\\SmartParking\\SmartParking.csproj",
+        "projectUniqueName": "C:\\Users\\owen1\\Downloads\\Senior Design GitHub Repo\\backend\\SmartParking.csproj",
         "projectName": "SmartParking",
-        "projectPath": "C:\\Users\\apmar\\OneDrive\\Desktop\\SmartParking\\SmartParking.csproj",
-        "packagesPath": "C:\\Users\\apmar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\apmar\\OneDrive\\Desktop\\SmartParking\\obj\\",
+        "projectPath": "C:\\Users\\owen1\\Downloads\\Senior Design GitHub Repo\\backend\\SmartParking.csproj",
+        "packagesPath": "C:\\Users\\owen1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\owen1\\Downloads\\Senior Design GitHub Repo\\backend\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\apmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\owen1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,7 +38,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -68,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\owen1\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
