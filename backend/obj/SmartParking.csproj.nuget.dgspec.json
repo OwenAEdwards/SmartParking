@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\owen1\\Downloads\\Senior Design GitHub Repo\\backend\\SmartParking.csproj": {}
+    "C:\\Users\\apmar\\OneDrive\\Desktop\\SmartParking\\SmartParking\\backend\\SmartParking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\owen1\\Downloads\\Senior Design GitHub Repo\\backend\\SmartParking.csproj": {
+    "C:\\Users\\apmar\\OneDrive\\Desktop\\SmartParking\\SmartParking\\backend\\SmartParking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\owen1\\Downloads\\Senior Design GitHub Repo\\backend\\SmartParking.csproj",
+        "projectUniqueName": "C:\\Users\\apmar\\OneDrive\\Desktop\\SmartParking\\SmartParking\\backend\\SmartParking.csproj",
         "projectName": "SmartParking",
-        "projectPath": "C:\\Users\\owen1\\Downloads\\Senior Design GitHub Repo\\backend\\SmartParking.csproj",
-        "packagesPath": "C:\\Users\\owen1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\owen1\\Downloads\\Senior Design GitHub Repo\\backend\\obj\\",
+        "projectPath": "C:\\Users\\apmar\\OneDrive\\Desktop\\SmartParking\\SmartParking\\backend\\SmartParking.csproj",
+        "packagesPath": "C:\\Users\\apmar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\apmar\\OneDrive\\Desktop\\SmartParking\\SmartParking\\backend\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\owen1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\apmar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,13 +42,23 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -64,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\owen1\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
