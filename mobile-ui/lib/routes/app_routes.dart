@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:smart_parking/views/parking_screen.dart';
 import 'package:smart_parking/views/login_screen.dart';
+import 'package:smart_parking/views/settings_screen.dart';
 import 'package:smart_parking/providers/auth_provider.dart';
 
 class AppRoutes {
@@ -13,5 +14,6 @@ class AppRoutes {
     },
     '/parking': (context) => const ParkingScreen(),
     '/login': (context) => const LoginScreen(),
+    '/settings': (context) => const SettingsScreen(),
   };
 }
