@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:smart_parking/widgets/custom_app_bar.dart';
 
 class ParkingScreen extends StatelessWidget {
   const ParkingScreen({super.key});
@@ -6,9 +7,7 @@ class ParkingScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Find Parking'),
-      ),
+      appBar: const CustomAppBar(title: 'Find Parking'),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
         child: Column(
