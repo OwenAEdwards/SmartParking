@@ -21,32 +21,38 @@ class LoginScreen extends StatelessWidget {
               style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 20),
-            ElevatedButton(
-              onPressed: () async {
-                bool success = await authProvider.signInWithGoogle();
-                if (success) {
-                  Navigator.pushReplacementNamed(context, '/');
-                } else {
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(content: Text('Google login failed')),
-                  );
-                }
-              },
-              child: const Text('Sign in with Google'),
+            Align(
+              alignment: Alignment.center,
+              child: ElevatedButton(
+                onPressed: () async {
+                  bool success = await authProvider.signInWithGoogle();
+                  if (success) {
+                    Navigator.pushReplacementNamed(context, '/');
+                  } else {
+                    ScaffoldMessenger.of(context).showSnackBar(
+                      const SnackBar(content: Text('Google login failed')),
+                    );
+                  }
+                },
+                child: const Text('Sign in with Google'),
+              ),
             ),
             const SizedBox(height: 10),
-            ElevatedButton(
-              onPressed: () async {
-                bool success = await authProvider.signInWithMicrosoft();
-                if (success) {
-                  Navigator.pushReplacementNamed(context, '/');
-                } else {
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(content: Text('Microsoft login failed')),
-                  );
-                }
-              },
-              child: const Text('Sign in with Microsoft'),
+            Align(
+              alignment: Alignment.center,
+              child: ElevatedButton(
+                onPressed: () async {
+                  bool success = await authProvider.signInWithMicrosoft();
+                  if (success) {
+                    Navigator.pushReplacementNamed(context, '/');
+                  } else {
+                    ScaffoldMessenger.of(context).showSnackBar(
+                      const SnackBar(content: Text('Microsoft login failed')),
+                    );
+                  }
+                },
+                child: const Text('Sign in with Microsoft'),
+              ),
             ),
           ],
         ),
