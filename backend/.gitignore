@@ -1,0 +1,32 @@
+﻿# ASP.NET Core
+bin/
+obj/
+out/
+Properties/
+
+# # JetBrains Rider
+.idea/
+
+# .NET Core files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer logs
+*.log
+
+# User-specific configuration files
+appsettings.Development.json
+appsettings.Production.json
+
+# Azure Web Apps publish folder
+publish/
+
+# Local environment settings files
+.env
