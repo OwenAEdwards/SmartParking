@@ -1,6 +1,6 @@
 namespace SmartParking.Models;
 
-public class ErrorViewModel
+public class ErrorResponseModel
 {
     public string? RequestId { get; set; }
 

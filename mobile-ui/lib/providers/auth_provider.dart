@@ -1,62 +1,95 @@
 import 'package:flutter/material.dart';
-import 'package:firebase_auth/firebase_auth.dart'; // Import FirebaseAuth
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 import 'package:google_sign_in/google_sign_in.dart';
+import 'package:smart_parking/services/api_service.dart';
 
 class AuthProvider with ChangeNotifier {
   final _storage = const FlutterSecureStorage();
   bool _isAuthenticated = false;
   bool get isAuthenticated => _isAuthenticated;
 
-  final FirebaseAuth _auth = FirebaseAuth.instance; // FirebaseAuth instance
+  final FirebaseAuth _auth = FirebaseAuth.instance;
+  final ApiService _apiService = ApiService();  // Instantiate ApiService
 
   // Sign in with Google (Firebase)
   Future<bool> signInWithGoogle() async {
     try {
       final GoogleSignInAccount? googleUser = await GoogleSignIn().signIn();
-      if (googleUser == null) return false; // User canceled sign-in
+      if (googleUser == null) {
+        debugPrint("Google authentication failed: User canceled sign-in.");
+        return false;
+      }
 
       final GoogleSignInAuthentication googleAuth = await googleUser.authentication;
 
-      // Check if the ID token is null before accessing it
-      if (googleAuth.idToken == null) {
-        debugPrint("Google authentication failed, no ID token available.");
+      // Check if the ID token and access token are null
+      if (googleAuth.idToken == null || googleAuth.accessToken == null) {
+        debugPrint("Google authentication failed: No ID token or access token available.");
         return false;  // Handle the case where the ID token is missing.
       }
 
       final String idToken = googleAuth.idToken!;
+      final String accessToken = googleAuth.accessToken!;
 
-      // Firebase sign-in with Google
-      final AuthCredential credential = GoogleAuthProvider.credential(idToken: idToken);
+      // Firebase authentication
+      final AuthCredential credential = GoogleAuthProvider.credential(
+        idToken: idToken,
+        accessToken: accessToken,
+      );
+
       final UserCredential userCredential = await _auth.signInWithCredential(credential);
-
       final user = userCredential.user;
-      if (user != null) {
-        // Store the authentication token in secure storage
-        final token = await user.getIdToken();
-        await _storage.write(key: 'auth_token', value: token);
-        _isAuthenticated = true;
-        notifyListeners();
-        return true;
+
+      // If the user is null, sign-in failed
+      if (user == null) {
+        debugPrint("Firebase sign-in failed: User is null.");
+        return false;
       }
-    } catch (e) {
+
+      // Call the backend to exchange the ID token for a JWT token
+      final bool success = await _apiService.loginWithGoogle(idToken);
+      if (success) {
+        final String? jwtToken = await _apiService.getJWTToken();
+        if (jwtToken != null) {
+          await _storage.write(key: 'jwt_token', value: jwtToken);
+          _isAuthenticated = true;
+          notifyListeners();
+          return true;
+        } else {
+          debugPrint("Failed to retrieve JWT token from backend.");
+        }
+      } else {
+        debugPrint("Backend login with Google failed.");
+      }
+    } catch (e, stackTrace) {
       debugPrint("Google sign-in error: $e");
+      debugPrint("Stack Trace: $stackTrace");
     }
     return false;
   }
 
   // Sign out from Firebase
   Future<void> logout() async {
-    await _auth.signOut(); // Firebase sign-out
-    await _storage.delete(key: 'auth_token');
-    _isAuthenticated = false;
-    notifyListeners();
+    try {
+      await _auth.signOut(); // Firebase sign-out
+      await _storage.delete(key: 'jwt_token'); // Clear stored JWT token
+      _isAuthenticated = false;
+      notifyListeners();
+    } catch (e) {
+      debugPrint("Error during sign-out: $e");
+    }
   }
 
   // Check if the user is authenticated
   Future<bool> checkAuthentication() async {
-    final user = _auth.currentUser;
-    return user != null;
+    try {
+      final user = _auth.currentUser;
+      return user != null;
+    } catch (e) {
+      debugPrint("Error checking authentication: $e");
+      return false;
+    }
   }
 
   Future<bool> signInWithMicrosoft() async {
