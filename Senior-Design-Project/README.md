@@ -48,7 +48,7 @@ Email Address: edwardoa@mail.uc.edu
 
 ## Other Relevant Work Experience
 - Engineering Teaching Assistant for ENED1100 (August, 2022 to December, 2022)
-- Computer Science Teaching Assistant for CS2011 (August, 2024 to Present)
+- Computer Science Teaching Assistant for CS2011 (August, 2024 to December, 2024)
 
 ## Project Sought
 - Web Development
