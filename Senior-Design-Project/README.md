@@ -15,7 +15,8 @@
     - [Owen Edwards](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Essays/Edwards_Individual_Capstone_Assessment.docx)
 13. [Professional Biographies](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/README.md#professional-biography---owen-edwards)
 14. [Budget](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Budget.md)
-15. Appendix:
+15. [Poster](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Expo%20Poster/Smart_Parking_Poster_Updated.pdf)
+16. Appendix:
     - [Research](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Research/Research.md)
     - [Code Repositories](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Research/Research.md#code-repositories)
     - [Meeting Notes](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Timeline/Meetings.md)
