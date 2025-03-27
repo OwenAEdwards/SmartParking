@@ -17,8 +17,8 @@
 16. Fall 2024 Self-Assessment Essays:
     - [Andrew Pipo](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Essays/Pipo_Individual_Capstone_Assessment.docx)
     - [Owen Edwards](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Essays/Edwards_Individual_Capstone_Assessment.docx)
-17. Spring 2025 Self-Assessment Essays:
-    - [Andrew Pipo]()
+17. Spring 2025 Individual Reflection Essays:
+    - [Andrew Pipo](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Essays/Pipo-CS5002-IndividualReflection.pdf)
     - [Owen Edwards]()
 18. [Professional Biographies](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/README.md#professional-biography---owen-edwards)
 19. [Budget](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Budget.md)
