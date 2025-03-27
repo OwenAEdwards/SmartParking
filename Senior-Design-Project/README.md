@@ -24,7 +24,7 @@
 19. [Budget](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Budget.md)
 20. [Poster](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Expo%20Poster/Smart_Parking_Poster_Updated.pdf)
 21. Summary of Hours and Justification:
-    - [Andrew Pipo]()
+    - [Andrew Pipo](http://github.com/OwenAEdwards/Senior-Design-Project/blob/main/summary-pipo.md)
     - [Owen Edwards]()
 22. Appendix:
     - [Research](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Research/Research.md)
