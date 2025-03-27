@@ -9,14 +9,23 @@
 8. [Timeline](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Timeline/Timeline.xlsx)
 9. [Effort Matrix](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Timeline/Effort%20Matrix.xlsx)
 10. [ABET Concerns Essay](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Essays/Project%20Constraints%20Essay.docx)
-11. [PPT Slideshow](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Fall-Presentation/Fall%20Design%20Presentation%20-%20Senior%20Design%20I.pptx)
-12. Self-Assessment Essays:
+11. [Fall 2024 PPT Slideshow](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Fall-Presentation/Fall%20Design%20Presentation%20-%20Senior%20Design%20I.pptx)
+12. [Spring 2025 PPT Slideshow](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Fall-Presentation/Fall%20Design%20Presentation%20-%20Senior%20Design%20I.pptx)
+13. [Development Repository](https://github.com/OwenAEdwards/SmartParking)
+14. [User Manual](https://pipoat.github.io/cs5002.html)
+15. Fall 2024 Self-Assessment Essays:
     - [Andrew Pipo](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Essays/Pipo_Individual_Capstone_Assessment.docx)
     - [Owen Edwards](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Essays/Edwards_Individual_Capstone_Assessment.docx)
-13. [Professional Biographies](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/README.md#professional-biography---owen-edwards)
-14. [Budget](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Budget.md)
-15. [Poster](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Expo%20Poster/Smart_Parking_Poster_Updated.pdf)
-16. Appendix:
+16. Spring 2025 Self-Assessment Essays:
+    - [Andrew Pipo]()
+    - [Owen Edwards]()
+17. [Professional Biographies](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/README.md#professional-biography---owen-edwards)
+18. [Budget](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Budget.md)
+19. [Poster](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Expo%20Poster/Smart_Parking_Poster_Updated.pdf)
+20. Summary of Hours and Justification:
+    - [Andrew Pipo]()
+    - [Owen Edwards]()
+21. Appendix:
     - [Research](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Research/Research.md)
     - [Code Repositories](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Research/Research.md#code-repositories)
     - [Meeting Notes](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Timeline/Meetings.md)
