@@ -1,3 +1,21 @@
+# Summarized/Final Expenses
+
+
+
+**Subtotal for Hardware:** **$200**
+
+**Subtotal for Software:** **$0**
+
+**Subtotal for Data Analytics:** **$0**
+
+**Subtotal for Development and Testing:** **$0**
+
+**Subtotal for Miscellaneous:** **$0**
+
+**Total Amount Spent: $200**
+
+---
+
 # Anticipated Budget
 **Hardware Costs**
 - **IoT Sensors** (e.g., ultrasonic or magnetic): $15–$50 per unit × 10 sensors = **$150–$500**
