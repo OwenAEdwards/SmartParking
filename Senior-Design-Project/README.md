@@ -19,7 +19,7 @@
     - [Owen Edwards](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Essays/Edwards_Individual_Capstone_Assessment.docx)
 17. Spring 2025 Individual Reflection Essays:
     - [Andrew Pipo](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Essays/Pipo-CS5002-IndividualReflection.pdf)
-    - [Owen Edwards]()
+    - [Owen Edwards](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Essays/Edwards-CS5002-IndividualReflection.pdf)
 18. [Professional Biographies](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/README.md#professional-biography---owen-edwards)
 19. [Budget](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Budget.md)
 20. [Poster](https://github.com/OwenAEdwards/Senior-Design-Project/blob/main/Expo%20Poster/Smart_Parking_Poster_Updated.pdf)
