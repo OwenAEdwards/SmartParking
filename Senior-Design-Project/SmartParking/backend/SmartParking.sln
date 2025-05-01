@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartParking", "SmartParking.csproj", "{9AB5994D-71CE-4CD0-9AE0-2AB4C34496E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7DCBEA3C-6410-4A73-8173-E2512710A44B}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AB5994D-71CE-4CD0-9AE0-2AB4C34496E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB5994D-71CE-4CD0-9AE0-2AB4C34496E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB5994D-71CE-4CD0-9AE0-2AB4C34496E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB5994D-71CE-4CD0-9AE0-2AB4C34496E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

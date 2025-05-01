@@ -1,0 +1,40 @@
+﻿version: '3.8'
+
+services:
+  smartparking:
+    image: smartparking
+    build:
+      context: .
+      dockerfile: Dockerfile
+    networks:
+      - app-network
+    environment:
+      - MONGO_DB_CONNECTION_STRING=mongodb://myUser:myPassword@mongo:27017/SmartParkingDb?authMechanism=SCRAM-SHA-1
+      - MongoDbSettings__DatabaseName=SmartParkingDb
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+    depends_on:
+      - mongo
+
+  mongo:
+    image: mongo:latest
+    container_name: mongo
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=myUser
+      - MONGO_INITDB_ROOT_PASSWORD=myPassword
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+      - ./init-mongo.js:/docker-entrypoint-initdb.d/init-mongo.js
+    networks:
+      - app-network
+
+volumes:
+  mongo-data:
+    driver: local
+
+networks:
+  app-network:
+    driver: bridge
